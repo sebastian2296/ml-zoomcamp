@@ -1,0 +1,1 @@
+Notes and resources for [ML-zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp)
